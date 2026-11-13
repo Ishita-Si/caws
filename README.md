@@ -1,8 +1,5 @@
 # Robust Carbon-Aware Workflow Scheduling
 
-Advanced Algorithms project, Department of Computer Science and Engineering, RGIPT.
-Authors: Ishita Singh, Aayushi Uikey, Jahnavi Yadav.
-
 Schedule a deadline-bound workflow (a DAG of tasks) to minimise CO2 emissions when the hourly carbon forecast may be wrong by a bounded amount, with a cap on power per hour.
 Uncertainty uses a Gamma budget: at most Gamma slots may reach their maximum forecast error at the same time. Gamma = 0 trusts the forecast.
 
