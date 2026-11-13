@@ -1,0 +1,25 @@
+# environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+/cache
+
+# generated results and data
+results.json
+e7.json
+summary.json
+exp.log
+analysis.txt
+uk_carbon.csv
+
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
